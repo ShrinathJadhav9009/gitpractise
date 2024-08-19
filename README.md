@@ -1,5 +1,5 @@
 ### Git and Github tutorials
 
-## Krish Naik
+## Shrinath Jadhav
 
 ## Git hub tutorials
